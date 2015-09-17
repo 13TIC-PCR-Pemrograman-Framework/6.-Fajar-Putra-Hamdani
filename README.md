@@ -1,2 +1,2 @@
 # 6.-Fajar-Putra-Hamdani
-Judul Project *silahkan diganti
+Sistem Management Penyetoran Telur Online
